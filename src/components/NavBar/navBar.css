@@ -1,0 +1,10 @@
+.nav-values{
+    font-size: 10px;
+    font-weight: 750;
+    position: absolute;
+    border: solid black;
+    border-radius: 80%;
+    height: 17px;
+    width: 15px;
+    background:black;
+}
